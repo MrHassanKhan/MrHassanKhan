@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💼 &nbsp; I work as a Fullstack Software Engineer.
 - 🌱 &nbsp; Enthusiast in Angular and Web Technologies in general.
 - ⚡ &nbsp; I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code.
-- 📫 &nbsp; How to reach me: ![Twitter](https://twitter.com/MhdHa55an) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20Muhammad%20Hassan)](https://www.linkedin.com/in/muhammad-hassan-7300a6a4/)
+- 📫 &nbsp; How to reach me: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/nikosanif.svg?style=social&label=Follow%20Hassan)](https://twitter.com/MhdHa55an) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20Muhammad%20Hassan)](https://www.linkedin.com/in/muhammad-hassan-7300a6a4/)
 - 🎙 &nbsp; Pronouns: He/Him
 - 😄 &nbsp; Fun fact: Love watching cartoons
 
