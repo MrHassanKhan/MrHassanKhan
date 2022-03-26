@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; Frontend Programming <br />
   ![Angular](https://img.shields.io/badge/-Angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=8E2DE2)
   ![Ionic](https://img.shields.io/badge/-ionic-grey?style=for-the-badge&logo=ionic&logoColor=white&labelColor=8E2DE2)
-<!--   ![Nextjs](https://img.shields.io/badge/-nextjs-grey?style=for-the-badge&logo=next&logoColor=white&labelColor=8E2DE2) -->
   ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
   ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-grey?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=8E2DE2)
   ![Material Design](https://img.shields.io/badge/-Material%20Design-grey?style=for-the-badge&logo=material-design&logoColor=white&labelColor=8E2DE2)
@@ -53,7 +52,7 @@ Here are some ideas to get you started:
   ![kibana](https://img.shields.io/badge/-Kibana-grey?style=for-the-badge&logo=kibana&logoColor=white&labelColor=8E2DE2)
 
 - 🛢 &nbsp; Databases <br />
-<!--   ![Postgres](https://img.shields.io/badge/-Postgres-grey?style=for-the-badge&logo=postgre&logoColor=white&labelColor=8E2DE2) -->
+  ![Postgres](https://img.shields.io/badge/-Postgres-grey?style=for-the-badge&logo=postgre&logoColor=white&labelColor=8E2DE2)
   ![MongoDB](https://img.shields.io/badge/-Mongo-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
   ![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
   ![Neo4j](https://img.shields.io/badge/-Neo4j-grey?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=8E2DE2)
@@ -63,7 +62,6 @@ Here are some ideas to get you started:
   ![Docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
   ![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-grey?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=8E2DE2)
-<!--   ![PhotoShop](https://img.shields.io/badge/-Photoshop-grey?style=for-the-badge&logo=adobe&logoColor=white&labelColor=8E2DE2) -->
   ![XD](https://img.shields.io/badge/-Adobe%20XD-grey?style=for-the-badge&logo=adobe&logoColor=white&labelColor=8E2DE2)
 
 ## 📈 Github Stats
