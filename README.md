@@ -67,3 +67,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHassanKhan&layout=compact&text_color=daf7dc&bg_color=151515)
 ![Stats](https://github-readme-stats.vercel.app/api?username=MrHassanKhan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515)
 
+
+<br>
+<p align="center"> 
+<a href="https://github.com/mrhassankhan/">
+<img width="170px" height="24" src="https://profile-counter.glitch.me/mrhassankhan/count.svg" alt="mrhassankhan" />
+</a> </p>
+<br>
+
