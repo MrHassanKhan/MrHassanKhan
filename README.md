@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m currently working on Angular & Node.js Application Development.
+- 🔭 &nbsp; I’m currently working on Angular, Reactjs & Springboot, Node.js Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I have studied Software Engineering .
 - 💼 &nbsp; I work as a Fullstack Software Engineer.
