@@ -83,11 +83,16 @@ I have advanced skills in **data extraction**, **transformation**, and **visuali
 
 | **Project**                | **Tech Stack**                                      | **Description**                                                                 |
 |----------------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
-| **E-commerce Platform**     | Angular, NestJS, PostgreSQL, AWS                   | Built a scalable platform handling high-load traffic with real-time analytics.   |
-| **Healthcare API**          | Spring Boot, MySQL, Docker                         | Developed secure APIs for healthcare data, ensuring compliance with regulations. |
-| **AI Chatbot Integration**  | Node.js, LLM, RAG, Transformers, AWS Lambda        | Integrated intelligent chatbot with natural language processing and response.    |
-| **Microservices Application**| Kafka, RabbitMQ, Spring Boot, MongoDB, Docker      | Designed and deployed microservices to handle complex workflows.                |
-
+| **[E-commerce Platform](https://github.com/MrHassanKhan/ecommerce-fullstack-app)**     | Angular, Spring Boot, MySQL, AWS, Docker                  | Built a scalable platform handling high-load traffic with real-time analytics.   |
+| **[Voting App API](https://github.com/MrHassanKhan/graphql-nestjs-voting-app)**          | Nestjs, GraphQL, MySQL, Docker                         | Developed secure APIs for Voting data, ensuring compliance with regulations. |
+| **[AI Chatbot Integration](https://github.com/MrHassanKhan/ChatGPT-Bot)**  | Node.js, LLM, RAG, Transformers        | Integrated intelligent chatbot with natural language processing and response.    |
+| **[Tour App](https://github.com/MrHassanKhan/tour-backend-app)**| Prisma, RabbitMQ, Nestjs, Postgres, Swagger, Docker      | Designed and deployed Tour to handle Tour Management workflows.
+| **[Node Clustering & Threading](https://github.com/MrHassanKhan/node-clustering-threading-resource)**  | Nodejs, Threading, Clustering   | Multi Threading And Clustering Node Applications
+| **[Prompt Nextjs App](https://github.com/MrHassanKhan/promptai-nextjs)**   | Nodejs, Nextjs, Mongodb, Docker | Discover, Share and create new prompts for GPT Models
+| **[Movie App](https://github.com/MrHassanKhan/MovieApp)** | Angular, Angular Material, .Net Core, Role-based authorization using JWT |  A full-stack web application for managing movie data, created with ASP.NET Core and Angular, using SQL Server as a database.
+| **[Ecommerce App](https://github.com/MrHassanKhan/crafty-commerce)** | Nodejs, Mongodb, Reactjs, Frame motion | Crafty Commerce is a full stack e-commerce web application that allows you to purchase different categories of product online. You can apply filters accordingly and find your favourite products in crafty commerce. You can pay with debit/credit cards and in just few click your product will be delivered.
+| **[Instagram Clone](https://github.com/MrHassanKhan/instagram-mern)** | Reactjs, Nodejs, Socket.io, Redux, Tailwindcss | Full-Stack Instagram Clone using MERN Stack and Socket.IO
+| **[Patthern Lock Angular App](https://github.com/MrHassanKhan/pattern-lock-angular)** | Angular | Pattern Lock for angular app to login through it if it's lock
 ---
 
 ## **Contact Information**
