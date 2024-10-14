@@ -1,12 +1,12 @@
 # **Senior Full Stack Developer**
 
-With over **eight years** of experience in web development, I specialize in building high-load, enterprise-grade applications using **Angular**, **ReactJS**, **NestJS** (Node.js) with TypeScript, and Spring Boot framework using Java Language. My focus is on creating responsive web designs, interactive graphics, rapid prototypes, and **Rapid API development** with automated testing that drive business success.
+With over **eight years** of experience in web development, I specialize in building high-load, enterprise-grade applications using **Angular**, **ReactJS**, **NestJS** (Node.js) with **TypeScript**, and **Spring Boot framework** using **Java** Language. My focus is on creating responsive web designs, interactive graphics, **Rapid prototypes** , and **Rapid API development** with automated testing that drive business success.
 
 ---
 
 ## **Technical Expertise**
 
-I possess a broad skill set that includes **backend development** with **NestJS**, **Node.js**, **Prisma**, **TypeORM**, **Kafka**, **Spring Boot**, and **Docker**, supported by a deep understanding of **microservices architecture**. My proficiency extends to advanced **AI/ML** techniques, including **Supervised** and **Unsupervised Learning**, **Artificial Neural Networks** (ANN), **Convolutional Neural Networks** (CNN), **Recurrent Neural Networks** (RNN), **Generative AI**, **Transformers**, **Retrieval-Augmented Generation (RAG)**, and **Large Language Models (LLMs)**.
+I possess a broad skill set that includes **backend development** with **NestJS**, **Node.js**, **Prisma**, **TypeORM**, **Kafka**, **Spring Boot**, **Spring Security** and **Docker**, supported by a deep understanding of **microservices architecture**. My proficiency extends to advanced **AI/ML** techniques, including **Supervised** and **Unsupervised Learning**, **Artificial Neural Networks** (ANN), **Convolutional Neural Networks** (CNN), **Recurrent Neural Networks** (RNN), **Generative AI**, **Transformers**, **Retrieval-Augmented Generation (RAG)**, and **Large Language Models (LLMs)**.
 
 I have advanced skills in **data extraction**, **transformation**, and **visualization**, using libraries like **NumPy**, **Pandas**, **SciPy**, **Seaborn**, and **Matplotlib** to analyze and present data effectively.
 
@@ -64,7 +64,7 @@ I have advanced skills in **data extraction**, **transformation**, and **visuali
 
 ## **Professional Highlights**
 
-- Developed scalable enterprise solutions using **Angular**, **ReactJS**, and **NestJS** with a focus on **high performance** and **scalability**.
+- Developed scalable enterprise solutions using **Angular**, **ReactJS**, **Spring Boot** and **NestJS** with a focus on **high performance** and **scalability**.
 - Implemented **microservices architecture** with **Kafka** and **RabbitMQ** for improved data processing.
 - Proficient in **API development** and **automation testing** to enhance development speed and ensure quality.
 - Experienced in **cloud deployment** and management using **AWS** and **DigitalOcean**, ensuring high availability and secure environments.
